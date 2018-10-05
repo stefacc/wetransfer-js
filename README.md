@@ -32,4 +32,4 @@ cd /root/dataToSend
 ```
 With the executable, it is possible bypass the very long 'npm install' routine.
 
-Compiled with [Zeit PKG module](https://github.com/zeit/pkg)
+Compiled for node8-linux-x64 with [Zeit PKG module](https://github.com/zeit/pkg)
