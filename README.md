@@ -5,6 +5,7 @@ git clone https://github.com/stefacc/wetransfer-js
 ```
 and then
 ```
+cd wetransfer-js
 npm install
 ```
 ## set API key
