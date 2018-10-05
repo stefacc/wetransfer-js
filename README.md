@@ -24,3 +24,12 @@ node /root/wetransfer-js/wetransfer.js "HI, DOWNLOAD FILES NOW!" ./a.txt ./b.txt
 ```
 `wetransfer.js` uploads `/root/dataToSend/a.txt` and `/root/dataToSend/b.txt`
 
+### using executable 
+You can use a pre-compilated executable, after cloning (remember to set WT_API_KEY)
+```
+cd /root/dataToSend
+./root/wetransfer-js/release/wetransfer "HI, DOWNLOAD FILES NOW!" ./a.txt ./b.$
+```
+With the executable, it is possible bypass the very long 'npm install' routine.
+
+Compiled with [Zeit PKG module](https://github.com/zeit/pkg)
