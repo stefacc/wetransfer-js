@@ -1,0 +1,22 @@
+{
+  "name": "wetransfer-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wetransfer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefacc/wetransfer-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefacc/wetransfer-js/issues"
+  },
+  "homepage": "https://github.com/stefacc/wetransfer-js#readme",
+  "dependencies": {
+    "@wetransfer/js-sdk": "^1.0.0"
+  }
+}
